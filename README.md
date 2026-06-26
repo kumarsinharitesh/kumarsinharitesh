@@ -293,9 +293,9 @@ Owned end-to-end delivery across multiple core product modules in a fast-paced s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kumarsinharitesh&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kumarsinharitesh&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=7C3AED" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsinharitesh&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=kumarsinharitesh&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6" height="180"/>
 
 </div>
 
@@ -305,7 +305,7 @@ Owned end-to-end delivery across multiple core product modules in a fast-paced s
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=kumarsinharitesh&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=kumarsinharitesh&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -325,11 +325,7 @@ Owned end-to-end delivery across multiple core product modules in a fast-paced s
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumarsinharitesh/kumarsinharitesh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumarsinharitesh/kumarsinharitesh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kumarsinharitesh/kumarsinharitesh/output/github-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/kumarsinharitesh/kumarsinharitesh/output/github-snake-dark.svg)
 
 </div>
 
