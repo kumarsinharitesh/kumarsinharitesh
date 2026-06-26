@@ -29,7 +29,9 @@
 
 ## ◈ About
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsinharitesh&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="320"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 Computer Science undergraduate at **SRM IST Delhi-NCR**, with a strong foundation across three production internships spanning **data analysis**, **full-stack engineering**, and **LLM-powered pipeline development**. I build software that ships — from React UI components in government-facing portals to real-time token-streaming inference playgrounds supporting 4+ LLM providers.
 
@@ -41,7 +43,33 @@ Currently serving as **AIML Lead at Google Developer Groups** on campus, driving
 
 **Open To:** `SDE Internships` · `AI/ML Engineering Roles` · `Full Stack Opportunities` · `Research Collaborations` · `Open Source`
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+
+```
+╔══════════════════════════════╗
+║   > whoami                   ║
+║   ritesh@dev:~$              ║
+║                              ║
+║   role     : SWE + AI/ML     ║
+║   stack    : TS · Py · Next  ║
+║   focus    : LLMs · Agents   ║
+║   status   : building 🔨     ║
+║   mood     : in the zone ⚡  ║
+║                              ║
+║   while(true) {              ║
+║     learn();                 ║
+║     build();                 ║
+║     ship();  // repeat       ║
+║   }                          ║
+╚══════════════════════════════╝
+```
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsinharitesh&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="280"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -96,10 +124,19 @@ Currently serving as **AIML Lead at Google Developer Groups** on campus, driving
 
 ## ◈ Featured Projects
 
-<details>
-<summary><b>⬡ DevSync AI — Unified Developer Collaboration Platform</b></summary>
+<!-- ★ FEATURED ★ -->
+<div align="center">
 
-<br/>
+### 🌟 Featured Project
+
+</div>
+
+<table>
+<tr>
+<td>
+
+### ⬡ DevSync AI — Unified Developer Collaboration Platform
+> **🔗 Live:** [devsynchub.vercel.app](https://devsynchub.vercel.app) &nbsp;|&nbsp; **📦 Repo:** [github.com/kumarsinharitesh/DevSync-AI](https://github.com/kumarsinharitesh/DevSync-AI)
 
 A production-grade developer collaboration environment combining **repository management**, **native AI assistance**, **real-time team chat**, and **pull request workflows** into a single seamless interface. Built for engineering teams that need intelligent tooling without context-switching overhead.
 
@@ -111,16 +148,17 @@ A production-grade developer collaboration environment combining **repository ma
 | **Real-Time** | Socket.io powered global chat with secure auto-expiring file attachments |
 | **Deployment** | Vercel (frontend) · Render (backend) · Glassmorphic UI with Framer Motion |
 | **License** | AGPL-3.0 |
-| **Repository** | [github.com/kumarsinharitesh/DevSync-AI](https://github.com/kumarsinharitesh/DevSync-AI) |
 
-**Architecture Highlights:** Integrated virtual file system with syntax highlighting via Monaco Editor. Email-notified standup scheduler for async teams. Streamlined PR review flow with inline commenting and fast branch merging. Built on Next.js App Router for sub-second page transitions backed by a highly optimized Express service layer.
+**Architecture Highlights:** Integrated virtual file system with syntax highlighting via Monaco Editor. Email-notified standup scheduler for async teams. Streamlined PR review flow with inline commenting and fast branch merging.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-</details>
-
 <details>
-<summary><b>⬡ InferPrompt — Multi-LLM Inference Playground</b></summary>
+<summary><b>⬡ InferPrompt — Multi-LLM Inference Playground</b> &nbsp;|&nbsp; 🔗 <a href="https://inferprompt.vercel.app">inferprompt.vercel.app</a></summary>
 
 <br/>
 
@@ -135,7 +173,24 @@ A live AI inference platform designed for engineers who need to evaluate, compar
 | **Deployment** | Live on Vercel |
 | **Repository** | [GitHub](https://github.com/kumarsinharitesh/InferPrompt) · [Live Demo](https://inferprompt.vercel.app) |
 
-**Engineering Notes:** The ABTD engine computes token-level diffs across provider responses in real time, enabling engineers to identify divergence points in model reasoning without manual comparison. The streaming architecture uses SSE with backpressure-aware buffering to maintain sub-100ms time-to-first-token at the UI layer.
+**Engineering Notes:** The ABTD engine computes token-level diffs across provider responses in real time, enabling engineers to identify divergence points in model reasoning without manual comparison.
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>⬡ MarketPulse — AI-Powered Market Intelligence Platform</b> &nbsp;|&nbsp; 🔗 <a href="https://marketpulseweb.vercel.app">marketpulseweb.vercel.app</a></summary>
+
+<br/>
+
+An AI-driven market intelligence dashboard that aggregates, analyzes, and surfaces actionable insights from real-time market data streams. Designed for fast decision-making with LLM-powered trend summarization.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Live** | [marketpulseweb.vercel.app](https://marketpulseweb.vercel.app) |
+| **AI Layer** | LLM-powered trend analysis and insight summarization |
+| **Focus** | Real-time market data · Business intelligence · Actionable dashboards |
 
 <br/>
 
@@ -185,7 +240,10 @@ A Python-based voice-activated desktop automation assistant with 10+ workflow au
 ## ◈ Experience
 
 <details>
-<summary><b>Information Technology Intern — Food Safety and Standards Authority of India (FSSAI)</b> &nbsp;|&nbsp; Oct – Dec 2025</summary>
+<summary>
+<img src="https://img.shields.io/badge/FSSAI-Government%20of%20India-006400?style=flat-square&logo=leaf&logoColor=white" alt="FSSAI"/>
+&nbsp;<b>Information Technology Intern — Food Safety and Standards Authority of India (FSSAI)</b> &nbsp;|&nbsp; Oct – Dec 2025
+</summary>
 
 <br/>
 
@@ -201,7 +259,10 @@ Embedded with the IT division of a national government regulatory body, contribu
 </details>
 
 <details>
-<summary><b>Conversational Data Analyst Intern — VOIS & VI – Edunet Foundation (AICTE)</b> &nbsp;|&nbsp; Sept – Oct 2025</summary>
+<summary>
+<img src="https://img.shields.io/badge/AICTE-Govt.%20of%20India-003087?style=flat-square&logo=academia&logoColor=white" alt="AICTE"/>
+&nbsp;<b>Conversational Data Analyst Intern — VOIS & VI – Edunet Foundation (AICTE)</b> &nbsp;|&nbsp; Sept – Oct 2025
+</summary>
 
 <br/>
 
@@ -217,7 +278,10 @@ Worked on large-scale conversational dataset analysis using LLM-powered insight 
 </details>
 
 <details>
-<summary><b>Software Development Intern — Bluestock</b> &nbsp;|&nbsp; Aug – Sept 2025</summary>
+<summary>
+<img src="https://img.shields.io/badge/Bluestock-Fintech-1A73E8?style=flat-square&logo=stocktwits&logoColor=white" alt="Bluestock"/>
+&nbsp;<b>Software Development Intern — Bluestock</b> &nbsp;|&nbsp; Aug – Sept 2025
+</summary>
 
 <br/>
 
@@ -276,19 +340,6 @@ Owned end-to-end delivery across multiple core product modules in a fast-paced s
 
 ---
 
-## ◈ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kumarsinharitesh)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kumarsinharitesh)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/kumarsinharitesh)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kumarsinharitesh)
-
-</div>
-
----
-
 ## ◈ GitHub Analytics
 
 <div align="center">
@@ -301,11 +352,19 @@ Owned end-to-end delivery across multiple core product modules in a fast-paced s
 
 ---
 
-## ◈ GitHub Trophies
+## ◈ GitHub Highlights
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=kumarsinharitesh&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumarsinharitesh&theme=midnight_purple" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumarsinharitesh&theme=midnight_purple" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kumarsinharitesh&theme=midnight_purple" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumarsinharitesh&theme=midnight_purple" height="160"/>
 
 </div>
 
